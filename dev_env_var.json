@@ -1,0 +1,9 @@
+{
+	"cognitoClientId": "",
+	"cognitoClientSecret":"",
+	"cognitoUserName":"",
+	"cognitoUserPassword":"@3456",
+	"cognitoUserPoolRegion":"us-east-1", 
+	"apiGatewayUrl_cloudfront":"h",
+	"apiGatewayUrl_idp":"https://cognito-idp.{}.amazonaws.com"
+}
